@@ -1,0 +1,10 @@
+Number of tasks = 3, My rank = 0, Running on lucio
+Assumed max amount of doubles we can fit per gb: 134217728
+Assumed max amount of doubles we can fit for 16gb ram: 2147483648
+Our matrix size is: 30240 x 30240. So the number of doubles we are putting in RAM is 914457600
+Matrix being initialized on source (rank 0): OMITTED
+Number of tasks = 3, My rank = 1, Running on tracer
+Number of tasks = 3, My rank = 2, Running on sombra
+This matrix will be multiplied by the following vector: OMITTED
+TIME TO SOLUTION FOR 3 RANKS 7.789743
+Result has been gathered back to source (rank 0): OMITTED

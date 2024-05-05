@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "mvp-student.h"
+
+//Main function
+int main(int argc, char **argv){
+    int s = 5;
+    double* matPtr

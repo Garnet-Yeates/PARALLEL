@@ -1,0 +1,7 @@
+Ping-Pong:
+In this algorithm, Rank 0 (R0) sends a message to each of the other ranks (R1 to Rn) one at a time and waits to receive a response from each rank before proceeding to the next one.
+The communication pattern involves sequential exchanges, where R0 sends a message to R1, R2, and so on, while each rank receives from the previous rank.
+The number of send/receive pairs is equal to [(numRanks - 1) * 2], resulting in multiple transfers.
+The code calculates the amount of data transferred in gigabytes (gbTransferred) based on the number of ranks, and measures the time elapsed for the communication.
+The expected time to complete this algorithm is longer than the ring algorithm due to the higher amount of data being transferred.
+

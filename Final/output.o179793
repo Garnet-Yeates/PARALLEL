@@ -1,0 +1,114 @@
+Running the program with 
+Width=16000
+Height=12000
+Threads=12
+Ranks=8
+MaxIterations=1000
+Rows Per Task=24
+Total Tasks=500
+Rank 6 has finished. Total work time for this rank is: 8.545493
+Total tasks completed for rank 6: 71
+Thread times for rank 6:
+  6.359477
+  6.447076
+  7.232827
+  7.234032
+  7.151706
+  7.188213
+  7.156336
+  7.181971
+  7.158531
+  7.236094
+  7.239057
+  7.154142
+Rank 7 has finished. Total work time for this rank is: 8.124279
+Total tasks completed for rank 7: 71
+Thread times for rank 7:
+  6.416128
+  6.330873
+  7.240828
+  7.161683
+  7.162765
+  7.243156
+  7.244754
+  7.242710
+  7.226532
+  7.159552
+  7.158562
+  7.158422
+Rank 1 has finished. Total work time for this rank is: 8.576928
+Total tasks completed for rank 1: 72
+Thread times for rank 1:
+  6.422220
+  7.162396
+  7.164080
+  7.230789
+  7.165018
+  7.166954
+  6.973392
+  7.249946
+  7.249053
+  7.247294
+  6.508233
+  7.247354
+Rank 2 has finished. Total work time for this rank is: 7.950060
+Total tasks completed for rank 2: 72
+Thread times for rank 2:
+  6.438497
+  7.157677
+  7.236991
+  7.156760
+  7.061670
+  7.158132
+  7.237383
+  7.235951
+  7.186131
+  6.493167
+  7.237256
+  7.158512
+Rank 3 has finished. Total work time for this rank is: 8.574517
+Total tasks completed for rank 3: 71
+Thread times for rank 3:
+  6.427585
+  7.178514
+  7.197916
+  7.241265
+  7.259945
+  7.175078
+  7.256207
+  7.171448
+  7.241772
+  7.255868
+  6.785431
+  6.707239
+Rank 4 has finished. Total work time for this rank is: 8.570568
+Total tasks completed for rank 4: 72
+Thread times for rank 4:
+  6.391613
+  7.156427
+  7.147224
+  7.232210
+  7.232469
+  7.230884
+  6.983810
+  7.155590
+  7.153975
+  7.231028
+  6.676265
+  7.157083
+Rank 5 has finished. Total work time for this rank is: 8.571174
+Total tasks completed for rank 5: 71
+Thread times for rank 5:
+  6.394332
+  7.256176
+  7.256191
+  6.870042
+  6.922905
+  7.236706
+  7.172300
+  7.178600
+  7.178422
+  7.178776
+  7.102145
+  7.253000
+Total time = 11.470430

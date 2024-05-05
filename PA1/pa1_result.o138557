@@ -1,0 +1,6 @@
+Number of tasks = 4, My rank = 0, Running on zarya
+Number of tasks = 4, My rank = 2, Running on roadhog
+Number of tasks = 4, My rank = 1, Running on winston
+Number of tasks = 4, My rank = 3, Running on orisa
+PING PONG: Time elapsed for 4 ranks, sending 6 gigabytes of data: 9.040689. Bandwidth: 0.663666
+RING: Time elapsed for 4 ranks, sending 4 gigabytes of data: 4.269684. Bandwidth: 0.936838

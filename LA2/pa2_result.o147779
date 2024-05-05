@@ -1,0 +1,6 @@
+Num Ranks: 1
+Doubles per GB: 134217728
+Dimension: 1342177280
+Result: 1073741824
+Average dot product time per rank: 4.094686
+Max dot product time per rank: 4.094686

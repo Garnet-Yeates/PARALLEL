@@ -1,0 +1,144 @@
+Running the program with 
+Width=16000
+Height=12000
+Threads=12
+Ranks=10
+MaxIterations=1000
+Rows Per Task=24
+Total Tasks=500
+Rank 2 has finished. Total work time for this rank is: 5.954884
+Total tasks completed for rank 2: 55
+Thread times for rank 2:
+  5.001101
+  5.583660
+  5.574456
+  5.584535
+  5.585031
+  5.585499
+  5.654971
+  5.648996
+  5.639654
+  5.650053
+  5.646482
+  4.922219
+Rank 3 has finished. Total work time for this rank is: 5.957639
+Total tasks completed for rank 3: 55
+Thread times for rank 3:
+  5.006331
+  5.646617
+  5.647333
+  5.584874
+  5.643060
+  5.584632
+  4.930442
+  5.646130
+  5.575333
+  5.579190
+  5.578743
+  5.643704
+Rank 4 has finished. Total work time for this rank is: 5.946326
+Total tasks completed for rank 4: 56
+Thread times for rank 4:
+  5.017821
+  5.569994
+  5.568133
+  4.951531
+  5.606254
+  5.626906
+  5.573164
+  5.617376
+  5.615779
+  5.616188
+  5.554638
+  5.553446
+Rank 5 has finished. Total work time for this rank is: 5.949401
+Total tasks completed for rank 5: 55
+Thread times for rank 5:
+  4.952256
+  5.591188
+  5.595549
+  5.660913
+  5.661733
+  5.594550
+  5.659998
+  5.663559
+  5.595061
+  5.596187
+  5.040368
+  5.640118
+Rank 6 has finished. Total work time for this rank is: 5.952444
+Total tasks completed for rank 6: 55
+Thread times for rank 6:
+  4.984182
+  5.600560
+  5.533779
+  5.309949
+  5.601786
+  5.605237
+  5.668272
+  5.666685
+  5.633765
+  5.668723
+  5.510237
+  5.607654
+Rank 7 has finished. Total work time for this rank is: 5.949846
+Total tasks completed for rank 7: 55
+Thread times for rank 7:
+  4.933957
+  5.635922
+  5.375409
+  5.256041
+  5.644237
+  5.573887
+  5.623620
+  5.586189
+  5.609352
+  5.582663
+  5.581284
+  5.645409
+Rank 8 has finished. Total work time for this rank is: 5.947945
+Total tasks completed for rank 8: 56
+Thread times for rank 8:
+  4.939979
+  5.633404
+  5.602392
+  5.131890
+  5.567501
+  5.593228
+  5.627712
+  5.564490
+  5.565900
+  5.626147
+  5.568491
+  5.505046
+Rank 9 has finished. Total work time for this rank is: 5.944242
+Total tasks completed for rank 9: 56
+Thread times for rank 9:
+  5.019092
+  5.641640
+  5.578096
+  5.641016
+  5.580377
+  5.582056
+  5.580805
+  5.648955
+  5.649639
+  4.957680
+  5.584702
+  5.648906
+Rank 1 has finished. Total work time for this rank is: 5.973399
+Total tasks completed for rank 1: 57
+Thread times for rank 1:
+  5.047025
+  5.593774
+  5.663738
+  5.665608
+  5.602966
+  5.604367
+  5.668190
+  5.668862
+  5.603748
+  5.601054
+  5.657297
+  4.979205
+Total time = 8.818665

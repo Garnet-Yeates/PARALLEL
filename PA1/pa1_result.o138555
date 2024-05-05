@@ -1,0 +1,6 @@
+Number of tasks = 4, My rank = 0, Running on lucio
+Number of tasks = 4, My rank = 1, Running on tracer
+Number of tasks = 4, My rank = 3, Running on reaper
+Number of tasks = 4, My rank = 2, Running on sombra
+PING PONG: Time elapsed for 4 ranks, sending 6 gigabytes of data: 9.394885. Bandwidth: 0.638645
+RING: Time elapsed for 4 ranks, sending 4 gigabytes of data: 4.824874. Bandwidth: 0.829037

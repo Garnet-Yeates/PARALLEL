@@ -1,0 +1,6 @@
+N = 100000000
+Num Ranks: 9
+Running with load balancing disabled
+One-time chunk size ~ 12500000
+The total number of primes up to 100000000 is 5761455
+Time elapsed (no balance): 65.592355

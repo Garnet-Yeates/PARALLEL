@@ -1,0 +1,8 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=00:05:00
+#PBS -q batch
+#PBS -N la3_output
+#PBS -j oe
+cd ~/LA3
+./LA3.cx 2000000000 12

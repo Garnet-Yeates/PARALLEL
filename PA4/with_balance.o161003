@@ -1,0 +1,6 @@
+N = 100000000
+Num Ranks: 12
+Running with load balancing enabled
+Chunk Size = 100000
+The total number of primes up to 100000000 is 5761455
+Time elapsed (with balance): 36.822628

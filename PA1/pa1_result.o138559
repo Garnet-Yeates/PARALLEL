@@ -1,0 +1,6 @@
+Number of tasks = 4, My rank = 0, Running on soldier
+Number of tasks = 4, My rank = 3, Running on junkrat
+Number of tasks = 4, My rank = 1, Running on mccree
+Number of tasks = 4, My rank = 2, Running on bastion
+PING PONG: Time elapsed for 4 ranks, sending 6 gigabytes of data: 9.574071. Bandwidth: 0.626693
+RING: Time elapsed for 4 ranks, sending 4 gigabytes of data: 3.986740. Bandwidth: 1.003326

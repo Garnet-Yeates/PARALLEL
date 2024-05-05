@@ -1,0 +1,17 @@
+Number of tasks = 5, My rank = 0, Running on winston
+Assumed max amount of doubles we can fit per gb: 134217728
+Assumed max amount of doubles we can fit for 16gb ram: 2147483648
+Total Operations: 914487840
+Operations per node: 182897568
+Total Nodes: 5
+Our matrix size is: 30240 x 30240. So the number of doubles we are putting in RAM is 914457600
+Matrix being initialized on source (rank 0): OMITTED
+Number of tasks = 5, My rank = 2, Running on mccree
+Number of tasks = 5, My rank = 4, Running on junkrat
+Number of tasks = 5, My rank = 1, Running on roadhog
+Number of tasks = 5, My rank = 3, Running on bastion
+This matrix will be multiplied by the following vector: OMITTED
+FOR MATRIX SIZE 30240 x 30240, (5 RANKS), SCATTER TIME IS: 6.026665
+FOR MATRIX SIZE 30240 x 30240, (5 RANKS), GATHER TIME IS: 0.002717
+TIME TO SOLUTION FOR 5 RANKS 7.409833
+Result has been gathered back to source (rank 0): OMITTED

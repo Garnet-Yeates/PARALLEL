@@ -1,0 +1,22 @@
+Fortran
+Warning: Permanently added the ECDSA host key for IP address '192.168.1.17' to the list of known hosts.
+Number of tasks=  2 My rank=  0 Running on zarya
+Number of tasks=  2 My rank=  1 Running on winston
+
+Testing MPI Message Passing...
+Message Pass Succeeded
+
+Testing Parallel Dot Product...
+ Result:         1000     1000.0000000000000     
+Test Passed
+
+
+C
+Number of tasks= 2 My rank= 0 Running on zarya
+Number of tasks= 2 My rank= 1 Running on winston
+
+Testing MPI Message Passing...
+Message Pass Succeeded
+
+Testing Parallel Dot Product...
+Test Passed

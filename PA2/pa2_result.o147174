@@ -1,0 +1,13 @@
+Number of tasks = 1, My rank = 0, Running on zarya
+Assumed max amount of doubles we can fit per gb: 134217728
+Assumed max amount of doubles we can fit for 16gb ram: 2147483648
+Total Operations: 914487840
+Operations per node: 914487840
+Total Nodes: 1
+Our matrix size is: 30240 x 30240. So the number of doubles we are putting in RAM is 914457600
+Matrix being initialized on source (rank 0): OMITTED
+This matrix will be multiplied by the following vector: OMITTED
+FOR MATRIX SIZE 30240 x 30240, (1 RANKS), SCATTER TIME IS: 2.805767
+FOR MATRIX SIZE 30240 x 30240, (1 RANKS), GATHER TIME IS: 0.000097
+TIME TO SOLUTION FOR 1 RANKS 9.694181
+Result has been gathered back to source (rank 0): OMITTED

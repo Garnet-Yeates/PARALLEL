@@ -1,0 +1,84 @@
+Running the program with 
+Width=16000
+Height=12000
+Threads=12
+Ranks=6
+MaxIterations=1000
+Rows Per Task=24
+Total Tasks=500
+Rank 3 has finished. Total work time for this rank is: 10.762092
+Total tasks completed for rank 3: 98
+Thread times for rank 3:
+  8.955509
+  9.974822
+  9.979109
+  9.979137
+  10.026648
+  10.092216
+  10.090512
+  9.580603
+  10.087605
+  9.271872
+  10.101867
+  9.992202
+Rank 4 has finished. Total work time for this rank is: 10.755992
+Total tasks completed for rank 4: 100
+Thread times for rank 4:
+  8.892538
+  9.968131
+  9.970531
+  9.976230
+  10.062542
+  10.087125
+  10.087957
+  9.989606
+  9.980489
+  10.083602
+  10.080167
+  9.020292
+Rank 5 has finished. Total work time for this rank is: 10.746958
+Total tasks completed for rank 5: 100
+Thread times for rank 5:
+  8.912481
+  10.021443
+  10.056506
+  9.707429
+  9.946903
+  9.950278
+  9.565284
+  10.064276
+  10.054163
+  10.061750
+  9.949125
+  9.454260
+Rank 1 has finished. Total work time for this rank is: 10.774485
+Total tasks completed for rank 1: 101
+Thread times for rank 1:
+  8.823446
+  10.084432
+  9.474228
+  10.027280
+  10.037653
+  9.966963
+  9.959358
+  9.965735
+  10.035083
+  9.818727
+  9.968409
+  9.818627
+Rank 2 has finished. Total work time for this rank is: 10.350362
+Total tasks completed for rank 2: 101
+Thread times for rank 2:
+  8.864307
+  9.993154
+  9.993313
+  9.993259
+  9.985199
+  9.984936
+  9.474718
+  9.796804
+  10.096924
+  9.867891
+  10.088838
+  10.086285
+Total time = 13.738618

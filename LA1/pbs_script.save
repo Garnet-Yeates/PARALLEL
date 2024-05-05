@@ -1,0 +1,11 @@
+    let obj = { o: "dd"}
+    let obj = { o: "dd"}
+    let obj = { o: "dd"}
+#!/bin/bash
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=00:1:00
+#PBS -q batch
+#PBS -N first_run
+#PBS -j oe
+cd ~/LA1
+./mvp-student.cx
